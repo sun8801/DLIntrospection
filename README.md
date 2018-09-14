@@ -4,6 +4,8 @@ DLIntrospection
 Simple NSObject-category wrapper for &lt;objc/runtime.h> for methods/ivars/protocols/etc. listing. 
 Automatically (often) resolves return types and argument types.
 
+# 用于debug打印对象的方法/属性
+
 ## Usage
 
 Type the following commands in LLDB command promt:```~ po [NSObject classes]```
